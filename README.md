@@ -51,5 +51,5 @@ This project analyzes bank loan data using Power BI for dashboard visualization 
 ---
 
 ## 📬 Contact
-For any queries, reach out via [devawasthi2020@gmail.com]
+For any queries, reach out via [praveenettonda@gmail.com]
 
